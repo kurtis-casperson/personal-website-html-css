@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+    background-color: #F8F8FF;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+}
+
+
+h1 {
+ color: #1baaaa;
+
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+header {
+background-color: powderblue;
+}
+
+nav {
+margin: auto;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+margin: 10px;
+display: inline-block;
+
+}
+
+nav a {
+    text-decoration: none;
+}
