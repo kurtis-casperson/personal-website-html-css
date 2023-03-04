@@ -1,43 +1,63 @@
-
 body {
-    margin: 0;
-    background-color: #F8F8FF;
-    font-family: 'Work Sans', sans-serif;
-    font-weight: 300;
-}
-
-
-h1 {
- color: #1baaaa;
-
-}
-
-.container{
-    width: 80%;
-    margin: 0 auto;
-
-}
-
-header {
-background-color: powderblue;
+  margin: 0;
+  background-color: #f8f8ff;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
 }
 
 nav {
-margin: auto;
+  text-align: center;
+}
+
+#home-title {
+  color: #1baaaa;
+  text-align: center;
+}
+
+#contact-title {
+  text-align: center;
+}
+
+#personal-email {
+  text-align: center;
+}
+#phone-number {
+  text-align: center;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#intro-sentence {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background-color: powderblue;
+}
+
+nav {
+  margin: auto;
 }
 
 nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 nav li {
-margin: 10px;
-display: inline-block;
-
+  margin: 10px;
+  display: inline-block;
 }
 
 nav a {
-    text-decoration: none;
+  text-decoration: none;
 }
